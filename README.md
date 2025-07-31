@@ -34,37 +34,18 @@ The project integrates **JavaFX (FXML for UI)**, **MySQL database (JDBC)**, **XM
 
 ---
 
-## 💻 UI Preview
+# 💻 UI Preview
 
-### Application Screens
+![Screen1](screen1.png)
+![Screen2](screen2.png)
+![Screen3](screen3.png)
+![Screen4](screen4.png)
+![Screen5](screen5.png)
+![Screen6](screen6.png)
+![Screen7](screen7.png)
+![Screen8](screen8.png)
+![Screen9](screen9.png)
+![Screen10](screen10.png)
+![Screen11](screen11.png)
+![Screen12](screen12.png)
 
-| Screen 1 | Screen 2 |
-|----------|----------|
-| ![Screen1](ui_ux/screenshots/screen1.png) | ![Screen2](ui_ux/screenshots/screen2.png) |
-
-| Screen 3 | Screen 4 |
-|----------|----------|
-| ![Screen3](ui_ux/screenshots/screen3.png) | ![Screen4](ui_ux/screenshots/screen4.png) |
-
-| Screen 5 | Screen 6 |
-|----------|----------|
-| ![Screen5](ui_ux/screenshots/screen5.png) | ![Screen6](ui_ux/screenshots/screen6.png) |
-
-| Screen 7 | Screen 8 |
-|----------|----------|
-| ![Screen7](ui_ux/screenshots/screen7.png) | ![Screen8](ui_ux/screenshots/screen8.png) |
-
-| Screen 9 | Screen 10 |
-|-----------|-----------|
-| ![Screen9](ui_ux/screenshots/screen9.png) | ![Screen10](ui_ux/screenshots/screen10.png) |
-
-| Screen 11 | Screen 12 |
-|------------|------------|
-| ![Screen11](ui_ux/screenshots/screen11.png) | ![Screen12](ui_ux/screenshots/screen12.png) |
-
----
-
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/Sporting_Club_Management_System.git
