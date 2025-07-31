@@ -1,7 +1,7 @@
 # 🏟 Sporting Club Management System
 
 ## 📌 Overview
-The **Sporting Club Management System** is a comprehensive **Java-based database project** designed to streamline the management of a sporting club’s daily operations.  
+The **Sporting Club Management System** is a **Java-based database project** designed to streamline the management of a sporting club’s daily operations.  
 It enables the administration to manage **members, teams, events, sponsors, experts, and reports** in an efficient and scalable way.  
 The project integrates **JavaFX (FXML for UI)**, **MySQL database (JDBC)**, **XML configuration files**, and **UI/UX prototypes initially designed in Figma** and implemented in FXML.
 
@@ -36,7 +36,7 @@ The project integrates **JavaFX (FXML for UI)**, **MySQL database (JDBC)**, **XM
 
 ## 💻 UI Preview
 
-Here are the main screens of the application:
+### Application Screens
 
 | Screen 1 | Screen 2 |
 |----------|----------|
