@@ -37,7 +37,7 @@ The project integrates **JavaFX (FXML for UI)**, **MySQL database (JDBC)**, **XM
 # 💻 UI Preview
 
 ![Screen1](screen1.png)
-![Screen2](screen2.png)
+![Screen 2](screen2.png)
 ![Screen3](screen3.png)
 ![Screen4](screen4.png)
 ![Screen5](screen5.png)
